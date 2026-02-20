@@ -18,7 +18,6 @@
 <a href="https://features.kometa.wiki/"><img src="https://img.shields.io/badge/Feature%20Requests-blueviolet?style=plastic" alt="Feature Requests"></a>
 <!--shield-end-->
 <!--intro-start-->
-
 This is a repo for images used by the [Kometa Defaults](https://kometa.wiki/en/latest/defaults/files/) Overlays and Collections. For more information on how to use them visit the [Defaults Metadata Guide](https://kometa.wiki/en/latest/defaults/guide/).
 
 <!--intro-end-->
