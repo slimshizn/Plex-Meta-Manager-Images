@@ -1,4 +1,4 @@
-# <img src="https://kometa.wiki/en/nightly/assets/logo-full.png" alt="Kometa Logo">
+# <img src="https://kometa.wiki/en/nightly/assets/images/icons/logo-full.png" alt="Kometa Logo">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kometa-Team/Kometa?style=plastic)](https://github.com/kometa-Team/Kometa/releases)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/kometa-team/kometa?label=docker&sort=semver&style=plastic)](https://hub.docker.com/r/kometateam/kometa)
@@ -14,6 +14,6 @@
 [![Sponsor or Donate](https://img.shields.io/badge/-Sponsor%2FDonate-blueviolet?style=plastic)](https://github.com/sponsors/meisnate12)
 [![Feature Requests](https://img.shields.io/badge/Feature%20Requests-blueviolet?style=plastic)](https://features.kometa.wiki/)
 
-This is a repo for images used by the [Kometa Defaults](https://kometa.wiki/en/latest/defaults/files/) Overlays and Collections. For more information on how to use them visit the [Defaults Metadata Guide](https://kometa.wiki/en/latest/home/guides/defaults.html).
+This is a repo for images used by the [Kometa Defaults](https://kometa.wiki/en/latest/defaults/files/) Overlays and Collections. For more information on how to use them visit the [Defaults Metadata Guide](https://kometa.wiki/en/latest/defaults/guide/).
 
 Please consider [donating](https://github.com/sponsors/meisnate12) towards the project.
